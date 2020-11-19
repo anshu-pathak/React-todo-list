@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/anshu-pathak/React-todo-list/static/css/main.6dfbf007.chunk.css",
+    "main.js": "/anshu-pathak/React-todo-list/static/js/main.94a8ef65.chunk.js",
+    "main.js.map": "/anshu-pathak/React-todo-list/static/js/main.94a8ef65.chunk.js.map",
+    "runtime-main.js": "/anshu-pathak/React-todo-list/static/js/runtime-main.ecd36be7.js",
+    "runtime-main.js.map": "/anshu-pathak/React-todo-list/static/js/runtime-main.ecd36be7.js.map",
+    "static/js/2.30ce087b.chunk.js": "/anshu-pathak/React-todo-list/static/js/2.30ce087b.chunk.js",
+    "static/js/2.30ce087b.chunk.js.map": "/anshu-pathak/React-todo-list/static/js/2.30ce087b.chunk.js.map",
+    "static/js/3.8aa8382e.chunk.js": "/anshu-pathak/React-todo-list/static/js/3.8aa8382e.chunk.js",
+    "static/js/3.8aa8382e.chunk.js.map": "/anshu-pathak/React-todo-list/static/js/3.8aa8382e.chunk.js.map",
+    "index.html": "/anshu-pathak/React-todo-list/index.html",
+    "static/css/main.6dfbf007.chunk.css.map": "/anshu-pathak/React-todo-list/static/css/main.6dfbf007.chunk.css.map",
+    "static/js/2.30ce087b.chunk.js.LICENSE.txt": "/anshu-pathak/React-todo-list/static/js/2.30ce087b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd36be7.js",
+    "static/js/2.30ce087b.chunk.js",
+    "static/css/main.6dfbf007.chunk.css",
+    "static/js/main.94a8ef65.chunk.js"
+  ]
+}
